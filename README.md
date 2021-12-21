@@ -13,7 +13,7 @@ IOT and blockchain makes it easy for a consumer to trust the food they eat or th
 It is here to replace food safety licenses we use today.(more authentic with real time data)
 
 
-We use the IOT data by Tru-stream as an example parameter and use it to make an nft that represents the rating patch for a pack of crops/medicine, also written a market contract so one can buy from marketplace
+We use the IOT data by Tru-stream as an example parameter and use it to make an nft that represents the rating patch for a pack of crops/medicine, also written a market contract so users can buy and sell assets from marketplace
 
 ## What we doing:
 
